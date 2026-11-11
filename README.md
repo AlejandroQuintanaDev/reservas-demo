@@ -1,6 +1,6 @@
 # Estudio Norte Reservas
 
-Proyecto de muestra con datos ficticios. No corresponde a un cliente real. Preparado como material de portfolio con asistencia de IA; no acredita experiencia con clientes ni un sistema en producción.
+Ejemplo de proyecto con datos ficticios.
 
 ## Qué se puede probar
 
